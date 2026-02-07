@@ -1,5 +1,9 @@
 ### Olá, eu sou Flavio Gomes! 🤚
-Sou estudante de Desenvolvimento de Sistemas pelo Senac e estou mergulhado no mundo da programação com um foco especial em Java. Estou sempre em busca de criar projetos pequenos para me manter atualizado e aprimorar minhas habilidades. Aqui no meu perfil do GitHub, você encontrará uma coleção desses projetos, refletindo meu aprendizado e paixão pela programação.
+Software Development student at Senac. I build projects using Java, PHP, and JavaScript to constantly sharpen my skills and solve problems through code.
+
+Check out my repositories to see my latest work and my progress as a developer.
+
+You can find my main projects and more about my work here: 🔗 ornate-marshmallow-723f6e.netlify.app
 
 
 
