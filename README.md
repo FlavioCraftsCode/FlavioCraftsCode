@@ -3,7 +3,7 @@ Software Development student at Senac. I build projects using Java, PHP, and Jav
 
 Check out my repositories to see my latest work and my progress as a developer.
 
-You can find my main projects and more about my work here: 🔗 ornate-marshmallow-723f6e.netlify.app
+You can find my main projects and more about my work here: 🔗 https://fanciful-starburst-dae824.netlify.app/
 
 
 
